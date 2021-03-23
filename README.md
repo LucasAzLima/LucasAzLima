@@ -1,5 +1,7 @@
 ### Hi there i'm Lucas Lima 👋
 
+### 📖 About me 
+
 I am Lucas Lima, I am 24 years old and I have always been passionate about programming and technology, in recent years I have dedicated myself to studies in the area of web development, participating in projects to pursue a professional career.
 During that time in college I participated in some projects that brought me experiences and knowledge about the development area and the like, such as:
 
@@ -17,11 +19,12 @@ During that time in college I participated in some projects that brought me expe
 <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 </div>
 
-## Contact
+## :mailbox_with_no_mail: Contact
 [![Outlook Badge](https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white&link=mailto:lucas.a.lima13@outlook.com)](mailto:lucas.a.lima13@outlook.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-Lucas%20Lima-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasazlima/)](https://www.linkedin.com/in/lucasazlima/)
 <b/>
 
+## :chart_with_upwards_trend: Status
 ![LucasAzLima github stats](https://github-readme-stats.vercel.app/api?username=LucasAzLima&show_icons=true&theme=dark)
 <b/>
 ![LucasAzLima Top Languages!](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAzLima&layout=compact&theme=dracula)
