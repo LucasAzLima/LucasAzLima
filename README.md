@@ -3,6 +3,7 @@
 I am Lucas Lima, I am 24 years old and I have always been passionate about programming and technology, in recent years I have dedicated myself to studies in the area of web development, participating in projects to pursue a professional career.
 During that time in college I participated in some projects that brought me experiences and knowledge about the development area and the like, such as:
 
+## 💻 Technologies
 <div markdown="1" align="left" style="width:50%,padding:0% 15%"  >
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
@@ -15,7 +16,6 @@ During that time in college I participated in some projects that brought me expe
 <img alt="React Native" src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 </div>
----
 
 ## Contact
 [![Outlook Badge](https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white&link=mailto:lucas.a.lima13@outlook.com)](mailto:lucas.a.lima13@outlook.com)
