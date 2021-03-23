@@ -3,7 +3,7 @@
 ### 📖 About me 
 
 I am Lucas Lima, I am 24 years old and I have always been passionate about programming and technology, in recent years I have dedicated myself to studies in the area of web development, participating in projects to pursue a professional career.
-During that time in college I participated in some projects that brought me experiences and knowledge about the development area and the like, such as:
+During that time in college I participated in some projects that brought me experiences and knowledge about the development area and the like.
 
 ## 💻 Technologies
 <div markdown="1" align="left" style="width:50%,padding:0% 15%"  >
