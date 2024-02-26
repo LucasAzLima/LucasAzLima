@@ -25,6 +25,10 @@ During that time in college I participated in some projects that brought me expe
 <b/>
 
 ## :chart_with_upwards_trend: Status
-![LucasAzLima github stats](https://github-readme-stats.vercel.app/api?username=LucasAzLima&show_icons=true&theme=dark)
-<b/>
 ![LucasAzLima Top Languages!](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAzLima&layout=compact&theme=dracula)
+
+
+![LucasAzLima github stats](https://github-readme-stats.vercel.app/api?username=LucasAzLima&show_icons=true&theme=dark)
+
+
+
