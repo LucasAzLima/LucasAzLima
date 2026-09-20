@@ -1,34 +1,22 @@
 # Lucas Lima
 
-**Frontend Engineer** · Natal, RN · Computer Engineering (UFRN)
+**Frontend Engineer** from Natal, Brazil.
 
-I build web and mobile products with **React**, **TypeScript**, and **React Native**.  
+I like turning ideas into **fast, accessible, and well-crafted products**, mostly with React, React Native, and TypeScript.
 
-## Focus
+Currently exploring **frontend architecture, design systems, observability, and AI-powered products**.
 
-- Product UI in React and Next.js (App Router)
-- Mobile apps with React Native
-- Typed, testable frontends (Jest, Testing Library, Storybook)
-- Auth and data layers (Supabase, REST)
+### Currently building
 
-## Featured project
+**[Smart Pantry](https://github.com/LucasAzLima/smart-pantry-portfolio)**
+A full-stack pantry app built as a playground for modern frontend architecture, reusable UI, authentication, and data persistence.
 
-**[Smart Pantry](https://github.com/LucasAzLima/smart-pantry-portfolio)** — household pantry app (inventory, quantities, expiry).
+**React · Next.js · TypeScript · Supabase · Storybook**
 
-- Guest mode persists in `localStorage`; signed-in users use **Supabase** (Auth + Postgres + RLS)
-- Monorepo: Next.js app + shared UI package (`@smart-pantry/ui`) with Storybook
-- TypeScript strict, Zustand, Tailwind CSS, Jest
+### A few things about me
 
-## Stack
-
-| Area | Tools |
-| --- | --- |
-| Languages | TypeScript, JavaScript |
-| Web | React, Next.js, HTML, CSS, Tailwind CSS |
-| Mobile | React Native |
-| Runtime / backend-adjacent | Node.js, Supabase |
-| Quality | Jest, React Testing Library, Storybook |
-
-## Contact
+* 5+ years building products in the React ecosystem
+* I care about the details between **"it works" and "it feels good"**
+* Always interested in learning something new
 
 [LinkedIn](https://www.linkedin.com/in/lucasazlima/) · [Email](mailto:lucas.a.lima13@outlook.com)
